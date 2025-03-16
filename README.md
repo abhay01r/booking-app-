@@ -18,6 +18,6 @@ This is a simple Go-based ticket booking system for a conference. It allows user
 
 **Technologies Used**
 
-Go (Golang)
+1. Go (Golang)
 
-Concurrency (goroutines, sync.WaitGroup)# booking-app
+2. Concurrency (goroutines, sync.WaitGroup)
