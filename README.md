@@ -1,10 +1,10 @@
 # Go Conference Booking Application
 
-#Overview
+**Overview**
 
 This is a simple Go-based ticket booking system for a conference. It allows users to book tickets, stores their information using a struct, and sends ticket confirmations asynchronously using goroutines.
 
-#Features
+**Features**
 
 1. Takes user input for booking tickets.
 
@@ -16,7 +16,7 @@ This is a simple Go-based ticket booking system for a conference. It allows user
 
 5. Displays the first names of booked users.
 
-#Technologies Used
+**Technologies Used**
 
 Go (Golang)
 
